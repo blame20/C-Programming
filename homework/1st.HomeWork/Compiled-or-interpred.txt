@@ -1,0 +1,2 @@
+It’s not accurate to say that a language is interpreted or compiled because interpretation and compilation are both properties of the implementation of that particular language, and not a property of the language itself. So, in theory, any language can be compiled or interpreted – it just depends on what the particular implementation that you are using does.
+Objective-C is a programming language. A programming language is an abstract concept. A programming language is a set of mathematical rules and definitions. Programming languages are both compiled or interpreted.
